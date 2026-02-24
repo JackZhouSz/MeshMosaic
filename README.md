@@ -5,7 +5,7 @@
 <div align="center">
 
 # Scaling Artist Mesh Generation via Local-to-Global Assembly
-
+CVPR 2026
 </div>
 
 <div align="center">
